@@ -1,6 +1,6 @@
 START
 WHILE heart rate readings available
-   IF heartRate > 100 THEN
+   IF heartRate > 105 THEN
       DISPLAY "High Risk Alert"
    ELSE
       DISPLAY "Normal Reading"
