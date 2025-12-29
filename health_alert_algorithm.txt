@@ -1,5 +1,5 @@
 START
-WHILE heart rate readings available
+WHILE monitoring is active
    IF heartRate > 100 THEN
       DISPLAY "High Risk Alert"
    ELSE
